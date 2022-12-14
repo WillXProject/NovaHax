@@ -8,8 +8,8 @@ Nova is the developer of NovaHax
 This project is protected by the Eclipse License 2.0
 
 # Verification
-Want to verify that the owner of the repo is legitimate?&nbsp;
-Encrypt their username in AES256 and make sure that the hash you receive matches the following hash:&nbsp;
+Want to verify that the owner of the repo is legitimate? &nbsp;
+Encrypt their username in AES256 and make sure that the hash you receive matches the following hash: &nbsp;
 xKF8sKoozNeofMLtaF4lzw==
 
 # Contributors
