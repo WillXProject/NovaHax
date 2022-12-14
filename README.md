@@ -13,5 +13,5 @@ Encrypt their username in AES256 and make sure that the hash you receive matches
 xKF8sKoozNeofMLtaF4lzw==
 
 # Contributors
-Nova - Developer
+Nova - Developer\
 Dragonfruit - Sneaky Sasquatch save file (he is an epic gamer)
